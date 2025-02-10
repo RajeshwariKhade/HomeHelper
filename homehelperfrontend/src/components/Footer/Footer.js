@@ -29,7 +29,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer-bottom">
-                <p>&copy; {new Date().getFullYear()} Online Maid Booking. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} Online Helper Booking. All rights reserved.</p>
             </div>
         </footer>
     );
